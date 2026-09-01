@@ -1,0 +1,31 @@
+Star Questions:
+
+Q1. Tell me about a time that you ran into conflict and how you dealt with it.
+A1. In my senior capstone class I had conflict with a teammate as the parts of the project we worked on related to each other so any changes he made effected my code. Often he would change or update his work in major ways without telling me or running it by me. I had to remind him of this in a professional way and work around the changes he made as he kept doing it.
+
+Q2. What is a strength of yours?
+A2. I would say my strength is dedication. I was with my previous employer for over 5 years, and I went back to school after some time because I was passionate about becoming a software engineer.
+
+Q3. What a weakness of yours?
+A3. A weakness of mine is that I can get stuck trying to solve something. When I encounter an issue I have no problem trying to solve it even if it takes a lot of time or effort. To address this I will set a certain timeframe for working on a solution, and after that time I will try to step back and reevaluate the problem and my approach to see if there is a better or more effecient way to progress.
+
+Q4. Tell me about yourself?
+A4. My name is Boone, I am a software engineering graduate from UNT with a Minor in Mathematics. I'm eager to switch careers to work in software and tech, and I'm working to improve my skills to land a starting role.
+
+Q5. Do you prefer working alone or in a team?
+A5. I am comfortable working with a team or by myself. I'm adaptable, and both have their strengths and weakness. With teamwork like in my senior design project, I assisted with planning and project management so that we were able to complete our work on time. With solo work I have completed two Coursera courses by myself, and I enjoy working at my own pace sometimes.
+
+Q6. How do you handle stress?
+A6. I understand that stress is a major issue, and I've experienced it firsthand in my studies and at my previous jobs in healthcare. I think identifying stressors and finding ways to mitigate or counteract them, as well as alloting time outside of work that helps destress. One way I help mitigate stress on the job is by making lists and timeframes that help estimate how much time I have. I find it comforting to remind myself that I have plenty of time usually if I'm working at a consistant pace.
+
+Q7. How do you manage your time?
+A7. I am a habitual spreadsheet-maker, as I find it helps with stress of time management and keeping track of tasks and project. For example during university I would start the semester by going through all of the syllabi and putting tasks on my spreadsheet, and then I could update due dates or add study time as needed.
+
+Q8. Tell me about a project you've worked on?
+A8. After graduating I also completed two Coursera courses for experience and to add new skills to my arsenal. One of the projects was a Full-stack C# application with development assistance from Microsoft Copilot.  This was my first time using C#, building a Full-stack app, or using AI for development. I was able to apply my programming knowledge from other languages to pick up C# quickly, and I felt like I learned a lot of new things to further myself.
+
+Q9. Where do you see yourself in 5 years?
+A9. I would like to be in at least a mid-level position in 5 years. I have a rough outline of how I want to proceed that mostly deals with finances, but professionally I have been waiting for my first role to estimate where I'd like to branch out from there. I believe once I have some experience in enterprise I will be able to find out which areas and domains I want to pursue as software development alone is a very wide field. 
+
+Q10. Tell me about a time you ran into a problem and how you handled it.
+A10. A problem that I experienced was with my senior design project right out of the gate. We were working to extend an existing project for block-based programming to also use Python. Originally we wanted to clone the github repo and build off of that, but no matter what we did we were not able to get their specific stack and versioning to work on our machines. We did not dwell on this, and just decided to build it from scratch since we did have a lot of time.
