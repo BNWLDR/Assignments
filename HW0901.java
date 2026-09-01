@@ -1,8 +1,3 @@
-
-
-/**
- * InnerHW0901
- */
 public class HW0901 {
     public static void main(String[] args) {
         //Challenge: Print Hello World
