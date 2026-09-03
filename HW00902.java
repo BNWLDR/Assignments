@@ -74,7 +74,7 @@ public class HW00902 {
             fn = scanner.nextInt();
             if (fn == 1) {
                 //check balance
-                System.out.println("Your current balance is: " + balance + "\n");
+                System.out.println("Your current balance is: " + balance + "git\n");
             }
             else if (fn == 2) {
                 //deposit
