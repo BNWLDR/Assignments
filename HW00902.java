@@ -12,7 +12,6 @@ public class HW00902 {
             arr[i] = scanner.nextInt();
         }
         int total = 0;
-        int ave = 0;
         int high = 0;
         int low = 101;
         
@@ -110,5 +109,6 @@ public class HW00902 {
                 System.out.println("I'm sorry, that is not a valid request. Please try again.\n");
             }
         }
+        scanner.close();
     }
 }
