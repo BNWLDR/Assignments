@@ -37,6 +37,6 @@ class HW0904 {
         p = Period.between(n, bday);
         System.out.println("Days until your birthday: " + ChronoUnit.DAYS.between(n, bday));
 
-
+        scanner.close();
     }
 }
