@@ -152,7 +152,6 @@ public class HW0903 {
 
     public static void Analyzer() {
         System.out.print("Please enter a word to analyze: ");
-        Scanner in = new Scanner(System.in);
         char[] arr = in.nextLine().toLowerCase().toCharArray();
         int charCount = 0;
         int vCount = 0;
