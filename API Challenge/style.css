@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    /* Ensures the body takes up the full screen height */
+    margin: 0;
+    /* Removes default browser margins */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    width: 75%;
+    margin: 0 auto;
+    min-height: 100dvh;
+}
+
+#search {
+    display: flex;
+    gap: 0.5em;
+    margin-bottom: 1em;
+}
+
+#search input,
+#search button {
+    font-size: 1em;
+    padding: 1em 1em;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+/* #search button {
+    background-color: #ef5350;
+    color: white;
+    border: none;
+    cursor: pointer;
+} */
+
+#search button:hover {
+    background-color: #d32f2f;
+}
+
+#result {
+    text-align: center;
+}
+
+#pokemonTitle {
+    text-transform: capitalize;
+}
+
+#pokemonImage {
+    display: none;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    image-rendering: pixelated;
+}
